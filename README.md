@@ -1,2 +1,2 @@
 # appStarter
-File structure setup for an PHP application
+File structure setup for a PHP application
